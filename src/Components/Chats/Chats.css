@@ -49,6 +49,11 @@ a {
 	padding: 15px;
 	border-radius: 20px;
 	color: #ffff;
+	z-index: -1;
+}
+
+.chatScreen__input {
+	z-index: -1;
 }
 
 .chatScreen__input > form {
